@@ -2,7 +2,7 @@
 welcome to my site! provided below are meaningful things such as my resume, albums I am really liking, and more...
 
 ## Resume
-You can find my latest resume [here](https://github.com/lastbestdev/resume/blob/main/resume_08_2025.pdf).
+You can find my latest resume [here](https://github.com/lastbestdev/resume/blob/main/resume_09_2025.pdf).
 
 ## Music
 - [album 1](https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A?si=d68o4CI-Q4qb9r5184Mh5w): F1 Trillion by Post Malone (long bed)
